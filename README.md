@@ -1,36 +1,48 @@
-
-<h2 align="center">👋 Hi there, I'm Priyasa Roy!</h2>
+<h1 align="center">👋 Hi, I'm Priyasa Roy!</h1>
 
 <p align="center">
 🎓 Final Year B.Tech (CSE) Student <br>
-💻 Aspiring Backend Developer | Java & Spring Boot Enthusiast <br>
-🌱 Learning by building, growing by solving!
+💻 Aspiring Backend Developer | Passionate Problem Solver <br>
+🚀 Actively seeking Internship Opportunities
 </p>
----
-
-## 🔧 Tech Stack
-
-- 💻 Languages: Java, JavaScript, SQL, HTML/CSS  
-- 🌐 Web Tech: Spring Boot, RESTful APIs, React (learning)  
-- 🛠 Tools: Git & GitHub, Postman, VS Code, IntelliJ IDEA  
-- 🗃️ Database: MySQL, PostgreSQL (learning)  
 
 ---
 
-## 🌟 What I’m Up To
+## 🧠 About Me
+
+- 💻 I love building real-world applications and learning new technologies  
+- 🌱 Currently working on Java, Spring Boot, REST APIs, and DSA  
+- 🎯 Focused on writing clean, efficient, and maintainable code  
+- 🤝 Always open to collaborating and contributing to meaningful projects  
+
+---
+
+🛠️ Tech Stack:
+
+Languages: HTML,CSS,Java,JavaScript,SQL
+Frameworks: Springboot,React.Js
+Tools: VS Code, Postman, GitHub
+Databases: MySQL
+Core Subjects: DSA, OOPs, DBMS
+
+---
+
+## 🌱 What I'm Up To
 
 - 📘 Learning: Advanced Java, Spring Boot, React  
-- 🔍 Exploring: Real-world projects, clean coding practices  
-- 🤝 Looking for: Internship roles in Backend or Full Stack Development  
+- 🔍 Exploring: Real-world project development & best coding practices  
+- 💼 Looking for: Backend or Full Stack **internship roles** to apply my skills  
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Let’s Connect!
 
-- 📧 Email: roypriyasa730@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/priyasa-roy
-- 💻 GitHub:  https://github.com/roypriyasa730
+- 📧 **Email**: roypriyasa730@gmail.com 
+- 💼 **LinkedIn**: linkedin.com/in/priyasa-roy 
+- 💻 **GitHub**: github.com/roypriyasa730
+
 ---
 
-⭐️ *Thanks for visiting my profile! Let’s connect, collaborate, and grow together.*
-
+<p align="center">
+🌟 Grateful for your visit — let’s connect and create something meaningful!
+</p>

@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Priyasa Roy!</h1>
 
 <p align="center">
-🎓 Final Year B.Tech (CSE) Student <br>
+🎓 Final Year B.Tech (CSE) Student at Presidency University, Bangalore <br>
 💻 Aspiring Backend Developer | Passionate Problem Solver <br>
 🚀 Actively seeking Internship Opportunities
 </p>
@@ -37,9 +37,9 @@
 
 ## 📫 Let’s Connect!
 
-- 📧 **Email**: roypriyasa730@gmail.com 
-- 💼 **LinkedIn**: linkedin.com/in/priyasa-roy 
-- 💻 **GitHub**: github.com/roypriyasa730
+- 📧 **Email**: [roypriyasa730@gmail.com](mailto:roypriyasa730@gmail.com)  
+- 💼 **LinkedIn**: [linkedin.com/in/priyasa-roy](https://linkedin.com/in/priyasa-roy)  
+- 🧩 **LeetCode**: [leetcode.com/u/priyasa_roy](https://leetcode.com/u/priyasa_roy)
 
 ---
 

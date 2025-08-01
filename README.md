@@ -1,11 +1,11 @@
 
-##### 👋 Hi there, I'm Priyasa Roy!
+<h2 align="center">👋 Hi there, I'm Priyasa Roy!</h2>
 
-🎓 Final Year B.Tech (CSE) Student | Aspiring Backend Developer  
-💻 Passionate about building real-world applications & learning modern tech  
-🌱 Currently focusing on Java, Spring Boot, REST APIs, and DSA  
-🚀 Actively seeking internship opportunities to grow as a developer  
-
+<p align="center">
+🎓 Final Year B.Tech (CSE) Student <br>
+💻 Aspiring Backend Developer | Java & Spring Boot Enthusiast <br>
+🌱 Learning by building, growing by solving!
+</p>
 ---
 
 ## 🔧 Tech Stack

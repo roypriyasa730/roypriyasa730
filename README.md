@@ -19,11 +19,11 @@
 
 🛠️ Tech Stack:
 
-Languages: HTML,CSS,Java,JavaScript,SQL
-Frameworks: Springboot,React.Js
-Tools: VS Code, Postman, GitHub
-Databases: MySQL
-Core Subjects: DSA, OOPs, DBMS
+- Languages: HTML,CSS,Java,JavaScript,SQL
+- Frameworks: Springboot,React.Js
+- Tools: VS Code, Postman, GitHub
+- Databases: MySQL
+- Core Subjects: DSA, OOPs, DBMS
 
 ---
 

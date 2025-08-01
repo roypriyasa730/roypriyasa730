@@ -19,8 +19,8 @@
 
 🛠️ Tech Stack:
 
-- Languages: HTML,CSS,Java,JavaScript,SQL
-- Frameworks: Springboot,React.Js
+- Languages: HTML, CSS, Java, JavaScript, SQL
+- Frameworks: Springboot, React.Js
 - Tools: VS Code, Postman, GitHub
 - Databases: MySQL
 - Core Subjects: DSA, OOPs, DBMS
